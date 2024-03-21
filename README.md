@@ -26,7 +26,7 @@ WHEN I choose to cancel
 THEN my employee data is displayed on the page sorted alphabetically by last name, and the console shows computed and aggregated data
 ```
 
-##Changes to the files
+## Changes to the files
 Added a unique Title
 Collected empoyee's data
 Gathered user input to create and return an array of employee objects
